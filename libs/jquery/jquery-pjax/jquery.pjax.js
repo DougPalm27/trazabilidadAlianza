@@ -3,7 +3,6 @@
  * Released under the MIT License
  * https://github.com/defunkt/jquery-pjax
  */
-
 (function($){
 
 // When called on a container with a selector, fetches the href with
